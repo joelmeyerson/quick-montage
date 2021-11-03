@@ -24,3 +24,6 @@ Setup for a conda environment to run the script.
 Command to run the script. The progress of batch processing will be printed to the console.
 
 `python montage.py -p /path/to/target/directory/`
+
+### Example montage
+![alt text](https://github.com/joelmeyerson/quick-montage/blob/main/image_montage.png?raw=true)
